@@ -12,8 +12,8 @@
               And then in Dao class written logic for above api.                                              
 
               Then using Lombok Library created entity class i.e Employee.
-              Lombok Library automatically generate the getter setter method, toString method, argument constructor, no argument constructor using annotation like @Getter, @Setter, 
-              @ToString, @AllArgsConstructor, @NoArgsConstructor.
+              Lombok Library automatically generate the getter setter method, toString method, argument constructor, no argument constructor using annotation like @Getter, 
+              @Setter, @ToString, @AllArgsConstructor, @NoArgsConstructor.
               After that in controller class created api for :
                                                               1. Create api for Add Employee.
                                                               2. Create api for Update Employee.
